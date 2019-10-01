@@ -18,10 +18,10 @@ Instructions
 How to run it how does it work - under another heading -->
 
 
-### Prerequisites
+## Prerequisites
 What you need to run this project
 
-### Authors
+## Authors
 Who wrote the program
 
 ## License
